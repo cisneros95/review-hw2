@@ -29,7 +29,7 @@ namespace review_hw2
         static void WriteAmerican(string day, int date, string month, int year)
 
         {
-            Console.WriteLine("{0} { 2} {1], { 3}"); day, date, month, year);
+            Console.WriteLine("{0} { 2} {1], { 3}"); day, date, month, year); // Will have to come back and finish product
 
         }
     }
